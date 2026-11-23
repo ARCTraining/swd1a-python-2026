@@ -35,3 +35,19 @@ All exercises can be completed using a cloud-based IDE such as [Google Colab](co
 ## Live training
 
 University of Leeds staff can book onto this course via the [IT Training Unit](https://uolr3.leeds.ac.uk/temcatsearch(bD1lbiZjPTUwMA==)/courses.htm) (login required.)
+
+## Getting Started
+
+We recommend completing this course using Google Colab.
+
+1. Open [https://colab.research.google.com](https://colab.research.google.com)
+2. Sign in with a Google account.
+3. Select **File → Open notebook**.
+4. Choose the **GitHub** tab.
+5. Search for:
+
+    ARCTraining/swd1a-python-2026
+
+6. Open `01_getting_started.ipynb`.
+
+Detailed instructions are available in [`01_getting_started.ipynb`](01_getting_started.ipynb).
